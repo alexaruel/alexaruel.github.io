@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Alexa Ruel</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Decision-Making Strategies</title>
+      <link>/project/decision-making-strategies/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/decision-making-strategies/</guid>
+      <description>&lt;p&gt;In this project, I study how the use of different learning strategies changes across development.&lt;/p&gt;
+&lt;p&gt;I am interested in why children and older adults tend to converge on simpler learning strategies and which neural mechanisms underlie age differences in learning.&lt;/p&gt;
+&lt;p&gt;Part of the work done for this project is currently submitted for publication. View the preprint &lt;a href=&#34;https://psyarxiv.com/nh5u7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+In this publication, we examined if reducing the demands on representing the decision-making environment allows older adults to engage in model-based (i.e., goal-directed) decision-making. Our results reveal that they do not engage in significantly more model-based learning due to their difficulty representing the decision environment.&lt;/p&gt;
+&lt;p&gt;Future goals of this project is to examine intermediate decision-making strategies such as Successor Representation (SR) and to establish whether replay mechanisms might support the adaptive use of SR and other different learning strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metacontrol</title>
+      <link>/project/metacontrol/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/metacontrol/</guid>
+      <description>&lt;p&gt;When trying to solve a complex goal-directed task such as navigating to a restaurant in a new city, we can apply different types of strategies (or combinations of strategies). We can learn the layout of the new city from a map and then use this knowledge to reach the restaurant, or we can simply put the address in our GPS and let it guide us there. For we can engage in either strategy or a combination of both, we are left with a meta-control problem: we have to decide which strategy (or combination thereof) to engage in based on the expected outcomes and the effort each one requires.&lt;/p&gt;
+&lt;p&gt;In this project, I examine how individuals of different ages approach problems in which they must make a meta-level decision; that to engage in the more effortful strategy or opt for the simpler one based on the costs and benefits of each one.&lt;/p&gt;
+&lt;p&gt;We propose that effort expenditure in children and older adults depends on developmental sweet spots at which the incentivization structure of the task and the task demands are tailored to the needs and cognitive abilities of the different age groups. That is, individuals make optimal metacognitive decisions only when they are motivated to and have the available resources to do so. Yet, when they fail on either of these criteria—to see additional value in effort investment for the relative computational costs the system must engage in—they will disengage in control. In this sense, we can see how the satisficing model and sweet spot models both reflect the core tenet of a resource-rational approach: namely that they consider optimal decision-making to be the best possible use of one’s limited cognitive resources.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Click &lt;a href=&#34;https://psyarxiv.com/s5ard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; to read a review in which we argue a Resource-rational approach to meta-control problems across the lifespan.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
