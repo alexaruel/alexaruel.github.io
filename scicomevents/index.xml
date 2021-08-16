@@ -5,12 +5,20 @@
     <link>/scicomevents/</link>
       <atom:link href="/scicomevents/index.xml" rel="self" type="application/rss+xml" />
     <description>Past &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 15:41:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Past &amp; Upcoming Talks</title>
       <link>/scicomevents/</link>
     </image>
+    
+    <item>
+      <title>Radio Interview on Montreal Now with Aaron Rand and Natasha Hall</title>
+      <link>/scicomevents/cjad800-summer21/</link>
+      <pubDate>Thu, 23 Jul 2020 15:41:00 +0000</pubDate>
+      <guid>/scicomevents/cjad800-summer21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abstract The Future of Science, Ep. 53 Decision-Making ft. Alexa Ruel</title>
