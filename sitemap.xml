@@ -19,12 +19,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-09-30T15:41:00+00:00</lastmod>
+    <lastmod>2021-12-07T15:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scicomevents/in-plain-english-2/</loc>
+    <lastmod>2021-12-07T15:41:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/scicomevents/</loc>
-    <lastmod>2021-09-30T15:41:00+00:00</lastmod>
+    <lastmod>2021-12-07T15:41:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +38,32 @@
   </url>
   
   <url>
+    <loc>/talk/decision-making-and-the-brain-a-round-table-discussion-with-nathaniel-daw-yael-niv-oriel-feldmanhall-anne-collins/</loc>
+    <lastmod>2021-09-19T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2021-09-19T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/scicomevents/mcll-talk/</loc>
     <lastmod>2021-09-17T15:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/neural-evidence-for-age-related-deficits-in-the-representation-of-state-spaces/</loc>
-    <lastmod>2021-06-17T08:30:00+00:00</lastmod>
+    <loc>/scicomevents/is-being-grateful-always-great/</loc>
+    <lastmod>2021-09-02T15:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/</loc>
+    <loc>/scicomevents/in-plain-english-1/</loc>
+    <lastmod>2021-08-05T15:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/neural-evidence-for-age-related-deficits-in-the-representation-of-state-spaces/</loc>
     <lastmod>2021-06-17T08:30:00+00:00</lastmod>
   </url>
   
@@ -153,6 +173,16 @@
   </url>
   
   <url>
+    <loc>/project/cognition-and-dm/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/surprise/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/metacontrol/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -165,6 +195,11 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/careers-outside-academia/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>

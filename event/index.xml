@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Past &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 08:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Sep 2021 08:30:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Past &amp; Upcoming Talks</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Decision Making and the Brain A Round-Table Discussion with Nathaniel Daw, Yael Niv, Oriel FeldmanHall &amp; Anne Collins</title>
+      <link>/talk/decision-making-and-the-brain-a-round-table-discussion-with-nathaniel-daw-yael-niv-oriel-feldmanhall-anne-collins/</link>
+      <pubDate>Sun, 19 Sep 2021 08:30:00 +0000</pubDate>
+      <guid>/talk/decision-making-and-the-brain-a-round-table-discussion-with-nathaniel-daw-yael-niv-oriel-feldmanhall-anne-collins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural evidence for age-related deficits in the representation of state spaces</title>
