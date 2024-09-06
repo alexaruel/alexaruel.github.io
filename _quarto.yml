@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Alexa Ruel"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: news.qmd
+        text: News
+      - href: research.qmd
+        text: Research
+      - href: scicom.qmd
+        text: Science Communication
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
