@@ -33,7 +33,7 @@ I completed my Masters and PhD at [Concordia University in Montreal, Canada](htt
 
 Outside the lab, you will find me at the yoga studio, cycling around the city, watercolor painting or at a cafe with a good book and the perfect latte.
 
-Download my CV.
+Download my [CV](cv.pdf).
 
 ## Education
 
@@ -47,8 +47,10 @@ Download my CV.
 
 ## Skills
 
--   Programming \| *R, Pyhton, MATLAB, Javascript & C#*
+-   Programming \| *R, Pyhton, MATLAB, Javascript & C# (Unity)*
 
 -   Electrophysiology \| *Electroencephalography (EEG)*
 
--   Advanced Analysis Techniques\| *Single Trial EEG Regression analyses, Neural Time Series Analysis*
+-   Advanced Analysis Techniques\| *Single Trial EEG Regression analyses, Neural Time Series Analysis (TFA)*
+
+-   Basics of Neural Networks
