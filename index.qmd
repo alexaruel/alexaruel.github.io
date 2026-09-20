@@ -25,7 +25,7 @@ about:
 
 ## About
 
-I am a Post-doctoral Researcher at the Cognitive Mechanisms of Learning and Change [Schuck Lab](https://schucklab.gitlab.io/) at the [University of Hamburg, Germany](https://www.uni-hamburg.de/en.html).
+I am a Post-doctoral Researcher at the Latent Learning Lab ([Schuck Lab](https://schucklab.gitlab.io/)) at the [University of Hamburg, Germany](https://www.uni-hamburg.de/en.html).
 
 My main research interests include **understanding the mechanisms that support learning and decision-making and how these abilities change during aging**. I use techniques such as EEG and fMRI in combination with behavioral measurements and computational modeling.
 
@@ -37,7 +37,7 @@ Download my [CV](cv.pdf).
 
 ## Education
 
--   PostDoctoral Researcher at University of Hamburg \| *September 2023-present*
+-   PostDoctoral Researcher at University of Hamburg \| *September 2023-October 2026*
 
 -   Doctoral degree in Experimental Psychology at Concordia University\| *September 2018 - August 2023*
 

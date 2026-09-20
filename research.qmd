@@ -1,17 +1,17 @@
 # Research Projects
 
-### Decision-Making Strategy Changes during Healthy Aging
+### Decision-Making Strategy Changes in Dynamic Environments
 
-What strategies do older adults engage in during decision-making?\
-Current work (including my own!) suggests that older adults rely primarily on model-free strategies due to their [marked deficits in model-based learning](https://academic.oup.com/cercor/article-abstract/33/5/1768/6576312?redirectedFrom=PDF&casa_token=hMQp3yhn6RUAAAAA:VJinCJMZT-hjvyZ3eszgS-512__QdpCygyo5yYtdrclQGVQzHXipvEib1DMfMNvoMPioag5Rbwc3ruEU). However, in the last decade younger adults have been shown to engage in other, intermediate, strategies such as [Successor Representation learning](https://www.nature.com/articles/s41562-017-0180-8). To date, it remains unknown if older adults also engage in Successor Representation learning. The current project aims to answer this question by using behavioral analyses and computational modeling. Imaging techniques will also be used to investigate if this ability is related to [neural replay](https://web.archive.org/web/20220527093658id_/https://www.biorxiv.org/content/biorxiv/early/2022/02/02/2022.02.02.478787.full.pdf).
+How do people adjust their decision strategies in changing environments?\
+Real-world decisions rarely unfold in stable environments: goals shift, routes become blocked, and rewards change. Classic accounts distinguish between model-free strategies, which rely on cached values of past actions, and model-based strategies, which plan using an internal model of the environment. In the last decade, younger adults have also been shown to engage intermediate strategies such as [Successor Representation learning](https://www.nature.com/articles/s41562-017-0180-8). However, it remains unclear how we adapt our decision strategies as the environment changes. The current project addresses this question by examining decision-making behavior in a virtual maze. Using computational modeling, we identify which strategies underlie behavior and how their use changes over time and across environmental conditions. We examine these changes in conjunction with navigation strategy use.
 
-This project is in collaboration with [Sukran Karaosmanoglu](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/karaosmanoglu.html), a senior PhD student in the Informatics Department at the University of Hamburg.
+This project is in collaboration with [Sukran Karaosmanoglu](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/karaosmanoglu.html), a post-doctoral researcher in the Informatics Department at the University of Hamburg.
 
 ### Credit Assignment abilities in Aging Adults
 
 Decision-making often involves changes in stimulus & reward contingencies (e.g. a previously unrewarded choice is now rewarded). In these cases, we have to be able to link specific choices or actions to their outcomes. This is analogous to thinking: "What choice did I make in order to get this reward?" and subsequently increasing the value of choosing that same choice option in the future. This process is referred to as [credit assignment](https://www.nature.com/articles/s41467-019-08662-8.pdf).\
 Accurate credit assignment depends on the representation of the task (i.e, cognitive map of the environment). Without such a representation individuals are unable to causally attribute reward feedback.\
-In the current project, we aim to understand if older adults, once taught the representation of the task, successfuly engage in credit assignment.
+In the current project, we aim to understand if older adults, once taught the representation of the task, successfully engage in credit assignment.
 
 This project is in collaboration with [Dr. Xiangjuan Ren (University of Hamburg)](https://www.psy.uni-hamburg.de/arbeitsbereiche/kognitive-neurowissenschaften-insb-lern-und-veraenderungsmechanismen/personen/ren-xiangjuan.html) and [Dr. Rani Moran (Queen Mary University of London)](https://www.qmul.ac.uk/sbbs/staff/rani-moran.html).
 
